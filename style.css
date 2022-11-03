@@ -7,7 +7,6 @@ body {
   background: #222;
   font-family: "Open Sans", sans-serif;
   background-image: url(https://source.unsplash.com/random/1600x900/?tokyo);
-  font-size: 120%;
 }
 
 .card {
@@ -24,6 +23,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 input.\=search-bar {
@@ -34,7 +34,7 @@ input.\=search-bar {
   background: #7c7c7c2b;
   color: white;
   font-family: inherit;
-  font-size: 120%;
+  font-size: 105%;
   width: calc(100% - 100px);
 }
 
